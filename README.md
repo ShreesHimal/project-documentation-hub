@@ -9,7 +9,7 @@ source `.docx`) plus its own README summarizing scope, tools, and key findings.
 | Project | Description | Report |
 |---|---|---|
 | 🔐 [**End-to-End Security Assessment**](./end-to-end-security-assessment/) | Full offensive security lifecycle — recon, scanning, exploitation, password auditing, and secure coding review/remediation — against a self-hosted vulnerable lab (Metasploitable2, DVWA, OWASP Juice Shop) | [PDF](./end-to-end-security-assessment/End-to-End_Security_Assessment_and_Reporting_Project.pdf) |
-| 🧩 [**DFIR Investigation**](./dfir-investigation/) | Simulated two-host breach investigation (Ubuntu + Windows) with a full incident timeline, MITRE ATT&CK mapping, and IOC register | [PDF](./dfir-investigation/) *(add file — see folder README)* |
+| 🧩 [**DFIR Investigation**](./dfir-investigation/) | Simulated two-host breach investigation (Ubuntu + Windows) with a full incident timeline, MITRE ATT&CK mapping, and IOC register | [PDF](./dfir-investigation/) |
 
 ## Repository Structure
 
