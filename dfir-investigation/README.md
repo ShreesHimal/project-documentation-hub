@@ -7,7 +7,7 @@ workstation. The report reconstructs the incident end-to-end: initial access, a 
 timeline of attacker activity, MITRE ATT&CK technique mapping, an indicators-of-compromise
 (IOC) table, and an evidence hash register suitable for chain-of-custody documentation.
 
-📄 **Report:** `DFIR_Investigation_Report.pdf` *(add your file to this folder — see note below)*
+📄 **Report:** `DFIR_Investigation_Report.pdf` 
 
 ## Scope
 
@@ -43,7 +43,3 @@ dfir-investigation/
 
 ---
 
-> export of it) into this folder — and, ideally, `docx/` for the source file — following
-> the same layout as the `end-to-end-security-assessment/` folder. If you'd like, upload
-> it here and I'll convert it to PDF and refine this README with the exact details from
-> the report.
