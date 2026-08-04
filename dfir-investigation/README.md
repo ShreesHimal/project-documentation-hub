@@ -43,8 +43,6 @@ dfir-investigation/
 
 ---
 
-> ⚠️ **Action needed:** This report wasn't part of the current session, so the file
-> itself isn't included yet. Drop your `DFIR_Investigation_Report.docx` (and/or a PDF
 > export of it) into this folder — and, ideally, `docx/` for the source file — following
 > the same layout as the `end-to-end-security-assessment/` folder. If you'd like, upload
 > it here and I'll convert it to PDF and refine this README with the exact details from
